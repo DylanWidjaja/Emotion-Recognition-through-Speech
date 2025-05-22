@@ -45,4 +45,4 @@ This project utilizes uninformed participants for most accurate and raw features
 The experiment was conducted hastily due to a limited time. There were also difficulty in finding participants for the experiment. As a result, the collected data is unsufficient to train a machine learning model. The model was unable to reliably identify the features for each class (emotion).
 
 **Equal training data for each class**
-Due to the nature of the experiment, there is an unproportionally large training data for the neutral class, leading to an imbalance training data for other classes such as anger or frustration. As a result, the model was unable to correctly identify the features that correspond to the classes with limited data. 
+Due to the nature of the experiment, there is an unproportionally large training data for the neutral class, leading to an imbalance training data for other classes such as anger or frustration. As a result, the model was unable to correctly identify the features that correspond to the classes with limited data.
